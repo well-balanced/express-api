@@ -5,7 +5,8 @@
     "module": "commonjs",
     "strictNullChecks": true,
     "outDir": "./dist",
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "experimentalDecorators": true
   }
 }
 
